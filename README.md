@@ -1,2 +1,5 @@
-# Face-Eye Detection
-The OpenCV script will detect a human face and eye using webcam.
+# Object Detection
+The OpenCV scripts will detect following objects-
+. Human face and eye using webcam
+. Color detection thru webcam
+. Object detection from any given image.
